@@ -11,3 +11,6 @@ I think working in a virtual store for real money is a good idea for furture job
 Students often shout "6 7" as if it carries a secret meaning. I think it works like an inside joke that spreads quickly in the halls. The phrase doesn't need a clear definition, because its power comes from repetition. When people say it, the tone is playful and light. it feels like a code only friends understand.  Students repeat it because it creates connection between your peers.
 # October 6, 2025
 If i were in charge of school, games like "cool math" wouldnt be blocked because, cool math actully had some educational games. Having games unblocked students wouldnt want to be on their phone as much because they will have something to do on their computer. AI tools , like ChatGPT, would be allowed for learning support, such as brainstorming, tutoring, or research, but not for cheating or completing assignments automatically. Teachers would show students how to use AI responsibly so it becomes a tool for learning , not a shortcut. This policy would help students focus, stay creative, and learn how to use technology wisely.
+# October 16, 2025
+https://chemexplorer.my.canva.site/ 
+My prompt was designed to help students study better for chemistry. Part of it could have been better, unfortunely it wasnt loading. But the rest of it was good.
