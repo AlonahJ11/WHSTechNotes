@@ -14,3 +14,9 @@ If i were in charge of school, games like "cool math" wouldnt be blocked because
 # October 16, 2025
 https://chemexplorer.my.canva.site/ 
 My prompt was designed to help students study better for chemistry. Part of it could have been better, unfortunely it wasnt loading. But the rest of it was good.
+# October 20, 2025
+| Name     | Class | Seat |
+| :------- | :---- | :--- |
+| Franklin | second|  91A |
+| Hardeep  | third |  61F |
+| Marla    | first |  35B |
