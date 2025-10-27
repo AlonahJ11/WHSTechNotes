@@ -20,3 +20,5 @@ My prompt was designed to help students study better for chemistry. Part of it c
 | Franklin | second|  91A |
 | Hardeep  | third |  61F |
 | Marla    | first |  35B |
+# October 27, 2025
+Technology plays a huge role in keeping people safe before , during , and after natural disasters like hurricanes, floods, and wildfires. For example, weathers radar systems and satellite tracking allow meteorologists to predict storms early, giving people time to evacuate. Emergency alert systems on phones and social media platforms like Twitter or Facebook quickly share warnings and safty updates These tools save lives by giving accurate, real-time informationand connecting people to help faster.
