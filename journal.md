@@ -30,3 +30,5 @@ Technology has changed the way people celebrate and connect during the holidays 
 One job that uses drones is a delivery drone operator, who controls drones that delivier packages to homes and businesses. Programmer help this job by creating the softwarte that lets drones fly safely, avoid obstacles, and follow GPS routes. In Texas delivery drone operators make around the mid- $40,000s to $50,000s a year, depending on experience and companay. I would want to try this job in the future because it seems fun to work with new technology and help make deliveries faster and easier.
 # December 8, 2025
 A self-driving car might miss a stopped school bus if its sensors misread the flashing lights or stop sign. The AI can also get confused in bright light, bad weather, or unusual angles. If I were on the waymo team, i'd add stricter rules that make the car always stop when a bus is detected. I'd also improve the sensors and add an emergency-stop rule to prevent mistakes and keep students safe.
+# December 15, 2025
+For winter break i will be going back to New Mexico to spend time with family.
