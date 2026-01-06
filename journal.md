@@ -32,3 +32,5 @@ One job that uses drones is a delivery drone operator, who controls drones that 
 A self-driving car might miss a stopped school bus if its sensors misread the flashing lights or stop sign. The AI can also get confused in bright light, bad weather, or unusual angles. If I were on the waymo team, i'd add stricter rules that make the car always stop when a bus is detected. I'd also improve the sensors and add an emergency-stop rule to prevent mistakes and keep students safe.
 # December 15, 2025
 For winter break i will be going back to New Mexico to spend time with family.
+# January 6, 2026
+All winter break i was on my phone most of the time, watching Tiktok, netflix, youtube, disney+, instagram and ect. 
