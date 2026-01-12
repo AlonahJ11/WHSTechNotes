@@ -34,3 +34,5 @@ A self-driving car might miss a stopped school bus if its sensors misread the fl
 For winter break i will be going back to New Mexico to spend time with family.
 # January 6, 2026
 All winter break i was on my phone most of the time, watching Tiktok, netflix, youtube, disney+, instagram and ect. 
+# January 12, 2026
+Autcraft was made to give autistic kids and their families a safe online space. it fixed the problem of games being unkind or unsafe for different people. Safe spaces matter because unmoderators, and reporting tools to protect users. Saftety, users may feel hurt or leave. Some forums and kid-friendly game are also safe spaces.
