@@ -36,3 +36,5 @@ For winter break i will be going back to New Mexico to spend time with family.
 All winter break i was on my phone most of the time, watching Tiktok, netflix, youtube, disney+, instagram and ect. 
 # January 12, 2026
 Autcraft was made to give autistic kids and their families a safe online space. it fixed the problem of games being unkind or unsafe for different people. Safe spaces matter because unmoderators, and reporting tools to protect users. Saftety, users may feel hurt or leave. Some forums and kid-friendly game are also safe spaces.
+# January 20, 2026
+One way technology can help create fairness is by giving everyone equal access to information online. For example, student can use school websites, learning apps, and free videos to study even if they dont have tutors or extra help at home. This helps because all students get the same chance to learn and improve, no matter what. 
